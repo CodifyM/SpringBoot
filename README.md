@@ -1,3 +1,3 @@
 # SpringBoot
 
-Using interfaces we have solved the issue with loose coupling
+Using interfaces I have solved the issue with loose coupling
